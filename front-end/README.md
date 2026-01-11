@@ -1,5 +1,6 @@
  AI-powered-session-assistant
 
+
 This repo hosts a Next.js frontend at the root and a NestJS backend in `backend/`.
 
 ## Environment
